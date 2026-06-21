@@ -1,0 +1,32 @@
+# 语法检查记录
+
+- `src\feature_engineering\3132筛选SOC+积分.py`：语法解析通过
+- `src\feature_engineering\31筛选SOC区间.py`：语法解析通过
+- `src\feature_engineering\32电池容量积分.py`：语法解析通过
+- `src\feature_engineering\33提取_里程-容量.py`：语法解析通过
+- `src\feature_engineering\34作图_里程-容量.py`：语法解析通过
+- `src\feature_engineering\41去除异常值(容量).py`：语法解析通过
+- `src\feature_engineering\42中值滤波.py`：语法解析通过
+- `src\feature_engineering\5_SOH计算.py`：语法解析通过
+- `src\feature_engineering\滤波.py`：语法解析通过
+- `src\modeling\01_cycle 和soh 预测 - 副本.py`：语法解析通过
+- `src\modeling\51_EMD-GPR.py`：语法解析通过
+- `src\modeling\51_EMD-LSTM多项式预测.py`：语法解析通过
+- `src\modeling\51_EMD-LSTM预测.py`：语法解析通过
+- `src\modeling\51_EMD-SVR 预测.py`：语法解析通过
+- `src\modeling\51_EMD-SVR多项式预测.py`：语法解析通过
+- `src\modeling\51_EMD-XGboost-GPR.py`：语法解析通过
+- `src\modeling\51_EMD-XGboost-多项式.py`：语法解析通过
+- `src\modeling\51_EMD-XGboost.py`：语法解析通过
+- `src\modeling\51_GPR.py`：语法解析通过
+- `src\modeling\51_SVR 预测.py`：语法解析通过
+- `src\modeling\61_里程预测.py`：语法解析通过
+- `src\modeling\61_预测两年otometer.py`：语法解析通过
+- `src\modeling\72_下降模型预测.py`：语法解析通过
+- `src\modeling\81_下降模型预测.py`：语法解析通过
+- `src\modeling\EMD-XGboost-LSTM.py`：语法解析通过
+- `src\modeling\EMD-XGboost-多项式回归.py`：语法解析通过
+- `src\modeling\EMD-XGboost-线性回归-所有结果图保存(1).py`：语法解析通过
+- `src\preprocessing\0精简数据.py`：语法解析通过
+- `src\preprocessing\1筛选.py`：语法解析通过
+- `src\preprocessing\2去除SOC和充电状态异常值.py`：语法解析通过
